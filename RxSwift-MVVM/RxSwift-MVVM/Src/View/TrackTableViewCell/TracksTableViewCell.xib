@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="TracksTableViewCell" rowHeight="58" id="Seq-yK-BTE" customClass="TracksTableViewCell" customModule="RxSwift_MVVM">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="58"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Seq-yK-BTE" id="R4k-JB-Rya">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="58"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="npy-hD-BSA">
+                        <rect key="frame" x="16" y="4" width="50" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="npy-hD-BSA" secondAttribute="height" multiplier="1:1" id="lFQ-1z-gpB"/>
+                        </constraints>
+                    </imageView>
+                    <view alpha="0.20000000298023224" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="z8K-Nb-fcl">
+                        <rect key="frame" x="16" y="57.5" width="351" height="0.5"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="0.5" id="KhQ-Kx-fqS"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="qut-Wm-Hln">
+                        <rect key="frame" x="82" y="8" width="150" height="18"/>
+                        <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="14"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="YsC-I9-d30">
+                        <rect key="frame" x="82" y="34" width="150" height="18"/>
+                        <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="14"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="z8K-Nb-fcl" secondAttribute="bottom" id="6sr-Jr-j4e"/>
+                    <constraint firstAttribute="trailing" secondItem="z8K-Nb-fcl" secondAttribute="trailing" constant="8" id="9NC-3L-MbD"/>
+                    <constraint firstItem="YsC-I9-d30" firstAttribute="leading" secondItem="qut-Wm-Hln" secondAttribute="leading" id="ISb-Ow-anI"/>
+                    <constraint firstItem="qut-Wm-Hln" firstAttribute="width" secondItem="R4k-JB-Rya" secondAttribute="width" multiplier="0.4" id="Iva-tN-bVi"/>
+                    <constraint firstItem="qut-Wm-Hln" firstAttribute="leading" secondItem="npy-hD-BSA" secondAttribute="trailing" constant="16" id="Jip-XD-Stf"/>
+                    <constraint firstItem="npy-hD-BSA" firstAttribute="leading" secondItem="R4k-JB-Rya" secondAttribute="leading" constant="16" id="KUP-MR-Dla"/>
+                    <constraint firstItem="YsC-I9-d30" firstAttribute="width" secondItem="qut-Wm-Hln" secondAttribute="width" id="Sf1-Hz-kru"/>
+                    <constraint firstItem="npy-hD-BSA" firstAttribute="top" secondItem="R4k-JB-Rya" secondAttribute="top" constant="4" id="T5s-I9-vuo"/>
+                    <constraint firstAttribute="bottom" secondItem="npy-hD-BSA" secondAttribute="bottom" constant="4" id="arM-w4-14X"/>
+                    <constraint firstItem="qut-Wm-Hln" firstAttribute="top" secondItem="R4k-JB-Rya" secondAttribute="top" constant="8" id="hJf-hG-Okk"/>
+                    <constraint firstAttribute="bottom" secondItem="YsC-I9-d30" secondAttribute="bottom" constant="6" id="r4d-3H-1f2"/>
+                    <constraint firstItem="z8K-Nb-fcl" firstAttribute="leading" secondItem="R4k-JB-Rya" secondAttribute="leading" constant="16" id="ur3-IA-gPY"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="trackArtist" destination="YsC-I9-d30" id="XQA-T5-ePu"/>
+                <outlet property="trackImageView" destination="npy-hD-BSA" id="ReL-Vt-ZmD"/>
+                <outlet property="trackTitle" destination="qut-Wm-Hln" id="Ixx-lR-3Zn"/>
+            </connections>
+            <point key="canvasLocation" x="80" y="-184"/>
+        </tableViewCell>
+    </objects>
+</document>
