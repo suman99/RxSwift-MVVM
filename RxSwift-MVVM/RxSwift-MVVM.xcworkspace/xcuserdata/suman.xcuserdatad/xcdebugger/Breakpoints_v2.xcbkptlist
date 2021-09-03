@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "218D5D55-600E-4548-8507-CA657C5CC1B3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA79BF2C-C825-4E1A-8660-5A1F6CD91036"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "requestData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA79BF2C-C825-4E1A-8660-5A1F6CD91036 - ec23c7f7833d32e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.HomeViewModel.requestData() -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "DA79BF2C-C825-4E1A-8660-5A1F6CD91036 - 746a0a8f26448592"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift_MVVM.APIManager.APIResult) -&gt; () in RxSwift_MVVM.HomeViewModel.requestData() -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "167">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A9A1A19-5452-406F-96F6-2869E5172529"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "requestData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A9A1A19-5452-406F-96F6-2869E5172529 - 746a0a8f26448435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift_MVVM.APIManager.APIResult) -&gt; () in RxSwift_MVVM.HomeViewModel.requestData() -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "477">
+               </Location>
+               <Location
+                  uuid = "6A9A1A19-5452-406F-96F6-2869E5172529 - 80a4c2cbee209ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftyJSON.JSON) -&gt; Swift.Optional&lt;RxSwift_MVVM.Album&gt; in closure #1 (RxSwift_MVVM.APIManager.APIResult) -&gt; () in RxSwift_MVVM.HomeViewModel.requestData() -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "635C8B45-542C-42BD-AF18-3B82CF351874"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "requestData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "635C8B45-542C-42BD-AF18-3B82CF351874 - 746a0a8f26448b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift_MVVM.APIManager.APIResult) -&gt; () in RxSwift_MVVM.HomeViewModel.requestData() -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1754">
+               </Location>
+               <Location
+                  uuid = "635C8B45-542C-42BD-AF18-3B82CF351874 - 746a0a8f26448b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift_MVVM.APIManager.APIResult) -&gt; () in RxSwift_MVVM.HomeViewModel.requestData() -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2021">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2752EE76-7356-4BB6-89A2-704F69D1951F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1B6348F-B34E-4083-9263-DF213E93B28C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "requestData(url:method:parameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFA0FBD3-F09F-4431-B769-E00B8D6A8D35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "requestData(url:method:parameters:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFA0FBD3-F09F-4431-B769-E00B8D6A8D35 - 75c1ac768f174e59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RxSwift_MVVM.APIManager.requestData(url: Swift.String, method: RxSwift_MVVM.APIManager.HTTPMethod, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, completion: (RxSwift_MVVM.APIManager.APIResult) -&gt; ()) -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1650">
+               </Location>
+               <Location
+                  uuid = "BFA0FBD3-F09F-4431-B769-E00B8D6A8D35 - 1f56e42ee668572f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static RxSwift_MVVM.APIManager.requestData(url: Swift.String, method: RxSwift_MVVM.APIManager.HTTPMethod, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, completion: (RxSwift_MVVM.APIManager.APIResult) -&gt; ()) -&gt; ()"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "413">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C46C71C9-6157-440A-B1FF-5F811E42F69B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "requestData(url:method:parameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5D52EBD-A238-411C-A52E-023A07C646E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "requestData(url:method:parameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4F2F522-C143-4BFE-BAEC-4B8683421387"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/Helpers/Networking/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "requestData(url:method:parameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "album"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527 - afe30ec191852b8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.AlbumsCollectionViewCell.album.getter : Swift.Optional&lt;RxSwift_MVVM.Album&gt;"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527 - c813466f4f2713bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.AlbumsCollectionViewCell.album.setter : Swift.Optional&lt;RxSwift_MVVM.Album&gt;"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "358">
+               </Location>
+               <Location
+                  uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527 - a34f68c42991ba91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.AlbumsCollectionViewCell.album.modify : Swift.Optional&lt;RxSwift_MVVM.Album&gt;"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527 - 686b61a53574e019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.AlbumsCollectionViewCell.album.modify : Swift.Optional&lt;RxSwift_MVVM.Album&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527 - 23ce4b3ae5121213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.AlbumsCollectionViewCell.init(frame: __C.CGRect) -&gt; RxSwift_MVVM.AlbumsCollectionViewCell"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "23DD2EB4-A519-4356-9040-851A2F6A9527 - 747538b68ec5ef30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwift_MVVM.AlbumsCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RxSwift_MVVM.AlbumsCollectionViewCell&gt;"
+                  moduleName = "RxSwift-MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/RxSwift-MVVM/Src/View/AlbumCollectionViewCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "677">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8FF4416-3AD3-4F9B-9C53-AD411CD8A532"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwift-MVVM/Src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
